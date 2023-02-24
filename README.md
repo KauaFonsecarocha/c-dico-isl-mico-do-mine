@@ -1,2 +1,2 @@
-# c-dico-isl-mico-do-mine
+# codico-de-progamacao
 brasileiro masqueico
